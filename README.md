@@ -10,7 +10,7 @@
 
 💬 Ask me about **Java**, **JavaScript**, **HTML**, **CSS**
 
-📫 How to reach me: ehtesham.tech3@gmail.com
+📫 How to reach me: ehtesham.xyz7@gmail.com
 
 
 - ⚡ Fun fact **I am funny**
