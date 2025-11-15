@@ -35,7 +35,7 @@
 ✔️ Basic SQL Queries  
 
 ---
-
+🛠️ Tools & Technologies (Manual + Automation QA)
 <p align="center">
 <a href="#" title="Selenium"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45"/></a>
 <a href="#" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
