@@ -13,7 +13,7 @@ I am a **Manual & Automation QA Tester** dedicated to delivering **high-quality,
 I am skilled in **Manual Testing, Automation (Selenium + Java + TestNG), API Testing, Test Case Design, and Bug Reporting**.  
 I am passionate about improving product quality through systematic testing and continuous learning.
 
-📩 **Reach me at:** `ehtesham.xyz7@gmail.com`
+📩 **Reach me at:** `ehtesham.techhub@gmail.com`
 
 ---
 
@@ -38,8 +38,6 @@ I am passionate about improving product quality through systematic testing and c
 <a href="#" title="TestNG"><img src="https://avatars.githubusercontent.com/u/250068?v=4" width="45" height="45"/></a>
 <a href="#" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/></a>
 <a href="#" title="Jira"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="45" height="45"/></a>
-<a href="#" title="HP ALM"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Micro_Focus_ALM_logo.svg" width="45" height="45"/></a>
-<a href="#" title="TestRail"><img src="https://seeklogo.com/images/T/testrail-logo-498E79719B-seeklogo.com.png" width="45" height="45"/></a>
 <a href="#" title="TestLink"><img src="https://avatars.githubusercontent.com/u/25562721?s=200&v=4" width="45" height="45"/></a>
 <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>
 <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
@@ -79,5 +77,5 @@ I am passionate about improving product quality through systematic testing and c
 ## 🤝 Connect With Me
 <p align="left">
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ehtesham-alam-74b632352">https://www.linkedin.com/in/ehtesham-alam-74b632352</a> <br>
-<strong>Email:</strong> ehtesham.xyz7@gmail.com
+<strong>Email:</strong> ehtesham.techhub@gmail.com
 </p>
