@@ -39,6 +39,7 @@ I am passionate about improving product quality through systematic testing and c
 <a href="#" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/></a>
 <a href="#" title="Jira"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="45" height="45"/></a>
 <a href="#" title="TestLink"><img src="https://avatars.githubusercontent.com/u/25562721?s=200&v=4" width="45" height="45"/></a>
+<a href="#" title="HP ALM"><img src="https://raw.githubusercontent.com/your-username/repo/main/images/hp-alm.png" width="45" height="45"/></a>
 <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>
 <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
 <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/></a>
