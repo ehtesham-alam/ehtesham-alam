@@ -45,7 +45,6 @@
 <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>
 <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
 <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/></a>
-<a href="#" title="TestRail"><img src="https://seeklogo.com/images/T/testrail-logo-498E79719B-seeklogo.com.png" width="45" height="45"/></a>
 <a href="#" title="TestLink"><img src="https://avatars.githubusercontent.com/u/25562721?s=200&v=4" width="45" height="45"/></a>
 </p>
 
