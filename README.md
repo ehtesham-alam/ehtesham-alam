@@ -1,68 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ehtesham Alam</h1>
-<h3 align="center">Quality Assurance | Manual & Automation Tester</h3>
-<img align="right" alt="Testing" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6559453/qa.gif">
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Ehtesham Alam</span></h1>
+<h3 align="center">💼 Manual & Automation QA Tester | Ensuring Quality Through Precision</h3>
 
-🔭 I’m currently working on **Manual Testing & learning Automation Testing**
-
-🌱 I’m learning **Selenium, Java, TestNG, API Testing & Basic SQL**
-
-💬 Ask me about **Manual Testing, Test Cases, Bug Reporting, Jira**
-
-📫 Reach me at **ehtesham.xyz7@gmail.com**
-
-⚡ Fun fact: **I break things to make software better 😄**
-
----
-
-<h3 align="left">🧪 Testing Skills:</h3>
-
-- Manual Testing  
-- Functional Testing  
-- Regression Testing  
-- Smoke & Sanity Testing  
-- Test Case Design  
-- Test Plan & Scenario Writing  
-- Defect Reporting & Tracking  
-- STLC & SDLC  
-- Agile Methodology  
-- UAT Testing  
-
----
-
-<h3 align="left">🛠️ Tools & Technologies:</h3>
-<p align="left">
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="sql" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400" alt="testing gif"/>
 </p>
 
 ---
 
-<h3 align="left">📂 Sample QA Projects:</h3>
+## 👨‍💻 About Me
 
-- ✔️ **Login Module Test Cases** (Functional + Negative + Boundary)
-- ✔️ **Signup/OTP Flow Testing**
-- ✔️ **Bug Reports (Jira Style)**
-- ✔️ **API Testing Samples using Postman**
-- ✔️ **Selenium Automation Practice Scripts (Java + Selenium)**
+🔍 **Manual QA Tester** focused on delivering high-quality, stable and reliable software  
+🚀 Building automation skills using **Selenium + Java + TestNG**  
+📝 Strong in **Test Case Design, Bug Reporting, Functional & Regression Testing**  
+🎯 Passionate about improving product quality through systematic testing  
+📚 Always learning, always improving  
+
+📩 **Reach me at:** `ehtesham.xyz7@gmail.com`
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+## 🧪 Core QA Skills
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtesham-alam&show_icons=true)
+✔️ Manual Testing  
+✔️ Functional, Regression & Retesting  
+✔️ Smoke & Sanity Testing  
+✔️ Test Case Design & Execution  
+✔️ Test Plan / Test Scenario Writing  
+✔️ Defect Tracking & Reporting  
+✔️ STLC & SDLC  
+✔️ Agile / Scrum  
+✔️ UAT Testing  
+✔️ Basic API Testing (Postman)  
+✔️ Basic SQL Queries  
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="45" height="45"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a>
+</p>
+
+---
+
+## 📂 Featured QA Projects
+
+### 🔹 **1. Login Module Test Cases**
+- Functional, Negative, Boundary Test Cases  
+- Covers UI + Backend validations  
+
+### 🔹 **2. OTP Verification Flow**
+- End-to-end functional testing  
+- Failure scenario coverage included  
+
+### 🔹 **3. Bug Report Samples (Jira Format)**
+- Includes screenshots, steps, expected vs actual, severity/priority  
+
+### 🔹 **4. Selenium Practice Scripts (Java + TestNG)**
+- Automated login form  
+- Assertions, waits, element locators used  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ehtesham-alam&show_icons=true&theme=tokyonight" width="55%">
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<strong>LinkedIn:</strong> Add your link here  
+<br>
+<strong>Email:</strong> ehtesham.xyz7@gmail.com  
+</p>
 
 ---
